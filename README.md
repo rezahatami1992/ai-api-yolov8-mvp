@@ -33,4 +33,7 @@ Perfect MVP for:
 ## Demo
 Detects: cars, people, animals, furniture, electronics, and 70+ other object categories.
 
+## Screenshots
+<img width="1920" height="1080" alt="{C027F732-C224-4F3C-86CB-898D3D0FD5C8}" src="https://github.com/user-attachments/assets/82e2d706-bd50-43dc-a4f4-c2707368fb51" />
+
 **Built by an ML Engineer | Production-Ready MVP**
